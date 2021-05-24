@@ -20,9 +20,4 @@ Add an input entry to set up pacMen size.
 ### Long Term
 Make a complete pacMan game for 1 or more players.
 <img src="PacMan1.png">
-<style>
-    img{
-        width: 150px
-            
-    }
-</style>    
+  
