@@ -19,5 +19,5 @@ Add animation to each pacMan to open and close its mouth.
 Add an input entry to set up pacMen size.
 ### Long Term
 Make a complete pacMan game for 1 or more players.
-<img src="PacMan1.png">
+
   
